@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi Developers 👋
 
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-Ashish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[(https://www.linkedin.com/in/ashish-kumar-47166b1a8/))]((https://www.linkedin.com/in/ashish-kumar-47166b1a8/))
+[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
+[![Linkedin Badge](https://img.shields.io/badge/-Ashish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Ashish-green)](https://www.ashish)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-ashish-yellow)](https://stackoverflow.com/users/13296123/ashish-kumar)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Ashish-yellow)](https://stackoverflow.com/users/3687251/ashish-)
 
 I'm
 Full Stack Solution Architect
@@ -149,5 +149,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: .....
+
 -->
