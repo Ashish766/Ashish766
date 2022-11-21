@@ -6,8 +6,9 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Ashish-yellow)](https://stackoverflow.com/users/13296123/ashish-kumar)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Ashish and I’m currently purssing web development course from edureka.
+I have developed many websites.I have done my graduation in Electronics and Telecommunication from Ramrao Adhik Institute of techology, Navi Mumbai.
+My Skill Set : HTML5, CSS3, JavaScript, ReactJs, NodeJs. I'm also learning Back-End Development and looking forward to be a Full Stack Web Developer.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/ashish766/count.svg)
